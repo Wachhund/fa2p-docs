@@ -1,0 +1,72 @@
+{
+    "docs_directory": "docs",
+    "themes_directory": "themes",
+
+    "title": "Fa2P Projekte",
+    "tagline": "Freunde auf 2 Pfoten e. V.",
+    "author": "Wachhund",
+    "image": "",
+
+    "cache": true,
+    "format": "html",
+
+    "ignore": {
+        "files": [],
+        "folders": []
+    },
+
+    "language": "de",
+
+    "strings": {
+        "de": {
+            "CodeBlocks_show": "Code-Blöcke anzeigen",
+            "Search_placeholder": "Suchen...",
+            "Search_one_result": "1 Ergebnis",
+            "Search_results": "!count Ergebnisse",
+            "Search_no_results": "Nichts gefunden",
+            "Search_common_words_ignored": "Allgemeine Wörter werden weitgehend ignoriert",
+            "Search_too_short": "Suche zu kurz",
+            "Search_one_character_or_more": "Sollte ein Zeichen oder mehr sein",
+            "Search_should_be_x_or_more": "Sollte !min Zeichen oder mehr sein",
+            "Link_previous": "Zurück",
+            "Link_next": "Weiter",
+            "Edit_on": "Bearbeiten bei :name:",
+            "View_on_github": "Bei GitHub anzeigen",
+            "View_documentation": "Dokumentation anzeigen",
+            "Table_of_contents": "Inhaltsverzeichnis"
+        }
+    },
+
+    "timezone": "Europe/Berlin",
+
+    "live": {
+        "clean_urls": true
+    },
+
+    "html": {
+        "theme": "daux-blue",
+        "breadcrumbs": true,
+        "breadcrumb_separator": "Chevrons",
+        "toggle_code": true,
+        "date_modified": true,
+        "auto_landing": true,
+        "search": true,
+        "auto_toc": true,
+        "inherit_index": false,
+        "jump_buttons": true,
+
+        "repo": "Wachhund/fa2p-docs",
+        "edit_on_github": "Wachhund/fa2p-docs/blob/main/docs",
+        "twitter": [],
+        "links": {
+            "Fa2P Website v3": "https://github.com/Wachhund/freundeauf2pfoten",
+            "Fa2P Website v2": "https://github.com/Wachhund/Fa2P",
+            "Furry Regsystem": "https://github.com/Wachhund/RegSys-Fa2P",
+            "SpringFurCon": "https://github.com/Wachhund/springfurcon",
+            "TFD Website": "https://github.com/Wachhund/tfd-website"
+        },
+
+        "google_analytics": false,
+        "piwik_analytics": false
+    }
+}
