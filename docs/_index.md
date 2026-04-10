@@ -22,6 +22,12 @@ Alle Projekte wurden für die **Furry-Community** in Deutschland entwickelt — 
 
 **Freunde auf 2 Pfoten e. V.** ist ein eingetragener Verein, der Furry-Veranstaltungen organisiert, einen Fursuit-Verleih betreibt und die Community vernetzt.
 
+### Weitere Projekte
+
+| Projekt | Stack | Beschreibung |
+|---------|-------|-------------|
+| Mau-Mau Telegram-Bot | Python, python-telegram-bot | Fork eines Mau-Mau-Kartenspielbots. [Upstream](https://github.com/Wachhund/mau_mau_bot) (aktuell: Upgrade auf v22) · [Fa2P-Anpassungen](https://github.com/Wachhund/mau_mau_fa2p) |
+
 ### Repositories
 
 - [Fa2P Website v3](https://github.com/Wachhund/freundeauf2pfoten) — 185 Commits
@@ -29,3 +35,5 @@ Alle Projekte wurden für die **Furry-Community** in Deutschland entwickelt — 
 - [Furry Regsystem](https://github.com/Wachhund/RegSys-Fa2P) — 204 Commits
 - [SpringFurCon](https://github.com/Wachhund/springfurcon) — 52 Commits
 - [TFD Website](https://github.com/Wachhund/tfd-website) — 49 Commits
+- [Mau-Mau Bot (Upstream)](https://github.com/Wachhund/mau_mau_bot) — Upgrade auf python-telegram-bot v22
+- [Mau-Mau Bot (Fa2P)](https://github.com/Wachhund/mau_mau_fa2p) — Vereins-Anpassungen
