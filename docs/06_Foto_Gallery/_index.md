@@ -1,4 +1,4 @@
-# S3 Image Gallery
+# Foto-Gallery
 
 Moderne Bildergalerie mit S3-kompatibler Objektspeicherung, Passkey-Authentifizierung und Docker-basiertem Setup. Erweitert um **FotoBattle** — eine kompetitive Foto-Battle-Plattform mit Elo-Rating und Event Sourcing.
 

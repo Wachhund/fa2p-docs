@@ -13,7 +13,7 @@ Dokumentation der Softwareprojekte rund um den Verein **Freunde auf 2 Pfoten e. 
 | [Furry Regsystem](03_Furry_Regsystem) | 07/2018 – 02/2026 | Laravel 12, Vue 3, MariaDB | Archiviert (v2.1.1) |
 | [SpringFurCon](04_SpringFurCon) | 01/2025 – 03/2026 | Laravel 12, Filament 3, SQLite | Archiviert (v2.1.0) |
 | [TFD Website](05_TFD_Website) | 04/2019 – 09/2019 | Statisches HTML | Archiviert |
-| [S3 Image Gallery](06_S3_Image_Gallery) | 03/2026 – aktiv | PHP 8.4, Slim 4, MariaDB, RustFS | Demo / Referenz |
+| [Foto-Gallery](06_Foto_Gallery) | 03/2026 – aktiv | PHP 8.4, Slim 4, MariaDB, RustFS | Demo / Referenz |
 
 ---
 
@@ -37,4 +37,4 @@ Alle Projekte wurden für die **Furry-Community** in Deutschland entwickelt — 
 - [TFD Website](https://github.com/Wachhund/tfd-website) — 49 Commits
 - [Mau-Mau Bot (Upstream)](https://github.com/Wachhund/mau_mau_bot) — Upgrade auf python-telegram-bot v22
 - [Mau-Mau Bot (Fa2P)](https://github.com/Wachhund/mau_mau_fa2p) — Vereins-Anpassungen
-- [S3 Image Gallery](https://github.com/Wachhund/S3-image-gallery) — Bildergalerie mit FotoBattle (34 Commits)
+- [Foto-Gallery](https://github.com/Wachhund/S3-image-gallery) — Bildergalerie mit FotoBattle (34 Commits)
